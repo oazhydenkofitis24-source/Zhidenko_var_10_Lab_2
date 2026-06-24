@@ -12,3 +12,4 @@ multiples.sort(reverse=True)
 
 # Вивід результату
 print("Числа кратні 11 у порядку спадання:", multiples)
+input()
