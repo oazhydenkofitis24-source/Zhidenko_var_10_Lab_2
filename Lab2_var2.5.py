@@ -25,3 +25,5 @@ else:
     print("Матриця після відображення:")
     for row in flipped:
         print(row)
+
+input()
